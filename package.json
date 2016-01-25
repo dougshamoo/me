@@ -1,0 +1,27 @@
+{
+  "name": "dougshamoo-portfolio",
+  "version": "0.0.0",
+  "description": "Doug Shamoo's project portfolio",
+  "main": "index.js",
+  "engines": {
+    "node": "5.2.0",
+    "npm": "3.3.12"
+  },
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dougshamoo/portfolio.git"
+  },
+  "author": "Doug Shamoo <doug.shamoo@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dougshamoo/portfolio/issues"
+  },
+  "homepage": "https://github.com/dougshamoo/portfolio#readme"
+}
