@@ -1,4 +1,6 @@
-  **Under Construction...** _Live site very outdated._
+  **Offline and Potentially Under Construction...**
+
+  _Was outdated for a long time..._
 
 # me
 
